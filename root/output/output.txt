@@ -1,0 +1,10 @@
+#baseball: 148
+#basketball: 131
+#NFL: 130
+#NBA: 129
+#MLB: 122
+#NHL: 119
+#Americanfootball: 117
+#basketballJersey: 117
+#NCAA: 117
+#Americanfootballjersey: 117
